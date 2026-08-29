@@ -10,7 +10,22 @@ h5 {
     align-items: center;
     justify-items: center;
 }
-img {width: 100px;
+.carnival-strands {
+    width: 100px;
+    height: 50px;
+    display: flex;
+    align-items: left;
+    justify-items: left;
+}
+.food-stall {
+    width: 100px;
+    height: 50px;
+    display: flex;
+    align-items: left;
+    justify-items: left;
+}
+.rollercoaster {
+    width: 100px;
     height: 50px;
     display: flex;
     align-items: left;
