@@ -34,5 +34,11 @@ h3 {
 }
 .starting {
     font-family: 'Comic Sans MS';
-    margin-left:2000px;
+    margin-left: 2000px;
+    text-align: center;
+}
+.arrow {
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 100px;
 }

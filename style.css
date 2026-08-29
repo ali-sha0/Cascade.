@@ -7,3 +7,22 @@ body {
     align-items: center;
     justify-items: center;
 }
+.beach1 {
+    width: 300px;
+    display: flex;
+    align-items: left;
+    justify-items: left;
+}
+.princess {
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+.rollercoaster {
+    width: 300px;
+    display: flex;
+    align-items: right;
+    justify-items: right;
+}
