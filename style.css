@@ -7,8 +7,20 @@ body {
     align-items: center;
     justify-items: center;
 }
+h4 {
+    font-family: 'Comic Sans MS';
+    color: #eadd4eea;
+    text-align: center;
+    font-size: 35px;
+    margin-top: 4px;   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
 .beach1 {
-    width: 300px;
+    width: 100px;
+    height: 50px;
     display: flex;
     align-items: left;
     justify-items: left;
