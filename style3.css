@@ -1,4 +1,4 @@
-h5 {
+h6 {
     font-size: 'Comic Sans MS', cursive;
     color: #449755;
     text-align: center;
@@ -10,21 +10,21 @@ h5 {
     align-items: center;
     justify-items: center;
 }
-.carnival-strands {
+.beach-picnic {
     width: 100px;
     height: 50px;
     display: flex;
     align-items: left;
     justify-items: left;
 }
-.food-stall {
+.surfing-pixel {
     width: 100px;
     height: 50px;
     display: flex;
     align-items: left;
     justify-items: left;
 }
-.rollercoaster {
+.swimming-beach-water {
     width: 100px;
     height: 50px;
     display: flex;
