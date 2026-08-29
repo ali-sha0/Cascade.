@@ -1,18 +1,18 @@
-* {
-    font-family: Comic Sans MS;
-}
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    justify-items: center;
-}
 .head {
     font-family: Press Start 2P;
     color: #eff4f4;
     text-align: center;
 }
 .head h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+* {
+    font-family: Comic Sans MS;
+}
+body {
     display: flex;
     justify-content: center;
     align-items: center;
